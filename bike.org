@@ -1,0 +1,28 @@
+* fix log
+  :PROPERTIES:
+  :ID:       48ba25ed-7531-40c3-a311-104470de0a87
+  :END:
+** <2020-04-24 Fri> frontal rim brake
+   I realize that the function of the rear screw (behind the fork) is
+   to change the margin between the brakes and the rim.
+* fit exploration
+** saddle
+*** <2020-04-24 Fri> angle adjustment
+    Lower the front by roughly 1 or 2 deg. I feel more pressure more
+    the my hand. But, I feel that the hip need to level up a little
+    bit to stretch the legs.
+* tips
+** protection of the blue
+*** <2020-04-24 Fri> taping with horizontal line
+    without feeling any pain.
+* Issues to solve
+** TODO frontal brake need to be changed
+   <2020-04-24 Fri> As I adjust the brake, I found the right side
+   almost vanished.
+** TODO frontal dérailleur need to be installed
+   - buy a shifter
+** TODO chain need to be cut
+   - study the "right" way
+** TODO front rim need to be tweak
+   <2020-04-24 Fri> As I adjust the brake, I found there's too much
+   right/left movement.
